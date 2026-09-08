@@ -1,0 +1,22 @@
+{
+  "name": "taskflow-mini-task-management",
+  "version": "1.0.0",
+  "description": "TaskFlow - Mini Task Management System (Full-Stack React, Express, MySQL)",
+  "scripts": {
+    "start": "cmd /c run_localhost.bat",
+    "backend": "cd backend && npm start",
+    "frontend": "cd frontend && npm run dev",
+    "seed": "cd backend && npm run seed",
+    "test:api": "cd backend && node test_api.js"
+  },
+  "keywords": [
+    "taskflow",
+    "task-management",
+    "fullstack",
+    "mysql",
+    "express",
+    "react"
+  ],
+  "author": "TaskFlow Team",
+  "license": "MIT"
+}

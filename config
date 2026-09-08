@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = TaskFlow Developer
+	email = dev@taskflow.local
+[remote "origin"]
+	url = https://github.com/shrivashtav/TaskFlow.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
