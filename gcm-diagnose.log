@@ -1,0 +1,212 @@
+﻿Diagnose log at 2026-09-07T18:59:18Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.7.3+5fa7116896c82164996a609accd1c5ad90fe730a
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26200)
+Reading environment variables... OK
+ Variables:
+EFC_37548_1262719628=1
+ProgramFiles(x86)=C:\Program Files (x86)
+EFC_37548_2775293581=1
+ProgramW6432=C:\Program Files
+GIT_TRACE=1
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+TMP=C:\Users\ALANKR~1\AppData\Local\Temp
+PROCESSOR_ARCHITECTURE=AMD64
+DriverData=C:\Windows\System32\Drivers\DriverData
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\ALANKRIT SHRIVASTAV\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Users\ALANKRIT SHRIVASTAV\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.14;C:\Users\ALANKRIT SHRIVASTAV\AppData\Local\Microsoft\WindowsApps;C:\Users\ALANKRIT SHRIVASTAV\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ALANKRIT SHRIVASTAV\AppData\Local\nvm;C:\nvm4w\nodejs;C:\Users\ALANKRIT SHRIVASTAV\AppData\Roaming\npm;C:\Users\ALANKRIT SHRIVASTAV\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.14;C:\Users\ALANKRIT SHRIVASTAV\AppData\Local\Python\bin;C:\Users\ALANKRIT SHRIVASTAV\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\clitool;C:\Users\ALANKRIT SHRIVASTAV\.dotnet\tools
+AGY_BROWSER_WS_URL=ws://127.0.0.1:53990/devtools/browser/c79fd0c6-dedb-475b-8894-487114ed5a56
+USERPROFILE=C:\Users\ALANKRIT SHRIVASTAV
+AGY_BROWSER_ACTIVE_PORT_FILE=C:\Users\ALANKRIT SHRIVASTAV\AppData\Roaming\Antigravity\DevToolsActivePort
+JETSKI_SAFECLIS_SOURCE=C:/Users/ALANKRIT SHRIVASTAV/.gemini/antigravity/bin/secplugins/src
+EFC_37548_1592913036=1
+MSYSTEM=MINGW64
+TMPDIR=C:\Users\ALANKR~1\AppData\Local\Temp
+ANTIGRAVITY_SOURCE_METADATA={"tool":{"conversationId":"52028a6d-ecac-4dbc-8c77-f9e600f0b04a","stepIndex":339,"toolCall":{"id":"call_38020","name":"run_command","argumentsJson":"{\"CommandLine\":\"\\u0026 \\\"C:\\\\Users\\\\ALANKRIT SHRIVASTAV\\\\AppData\\\\Local\\\\Programs\\\\Microsoft VS Code\\\\bin\\\\code.cmd\\\" \\\"C:\\\\Users\\\\ALANKRIT SHRIVASTAV\\\\.gemini\\\\antigravity\\\\scratch\\\\taskflow\\\"\",\"Cwd\":\"C:\\\\Users\\\\ALANKRIT SHRIVASTAV\\\\.gemini\\\\antigravity\\\\scratch\\\\taskflow\",\"IsDaemon\":false,\"WaitMsBeforeAsync\":5000,\"toolAction\":\"Opening folder in VS Code\",\"toolSummary\":\"Open taskflow in VS Code\"}","thinkingSignature":"EvgCCvUCARFNMg+paqU7mRNPaFKZNCsPulTnzTjPKQzDwb2jzWwaqXWv4OndoPB0FAY5+xSEpjs98/PEjuMwuIxyfaqZtIPg5m1ub7f+Fnckg4LCj+7sDQmlmP/JQSnsYNj5A6uFw+T3iRyLuk905TJUfKGPheii04wOZ7RJGN+TMv8CBVVdE3Fd0jutOimnN6zpn6BuBgOVUD3z+3/S8D+NYJCqv6ig+7mj1jkJxVLcWugnEFdeYVJjSS9WVPnwKSpvLGY3b+mbCsHcRgplvw20XwXwkYvZC5XmqETLo/UeGAxjPr+qoqRVirbq+e5NAVEtHpulFktSGKistP2q0FDhtfAtAvtkgsjixKgGDMBCQKe3snVcRtYe7TgcgaKO3Uxi3AE51gsebEjPf/mZ9D+iwp8YbqTd4KCybvvWimso0SOuybXh4tHBODK2QGTanKDXOcfkF/LcVBhx0LmwAVm8JFDSAwdF5Mtk8dcAIZJ1NBbYrdPL8APx6w=="}}}
+TEMP=C:\Users\ALANKR~1\AppData\Local\Temp
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING=Default
+LOGONSERVER=\\DESKTOP-36PE54Q
+TERM=xterm-256color
+USERNAME=ALANKRIT SHRIVASTAV
+SystemRoot=C:\Windows
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_27440_OARTKVXDHFYWRMCZ
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+ANTIGRAVITY_AGENT=1
+PLINK_PROTOCOL=ssh
+PROMPT=$P$G
+PATH=C:/Users/ALANKRIT SHRIVASTAV/.gemini/antigravity/bin;C:\Users\ALANKRIT SHRIVASTAV\AppData\Roaming\Antigravity\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Users\ALANKRIT SHRIVASTAV\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.14;C:\Users\ALANKRIT SHRIVASTAV\AppData\Local\Microsoft\WindowsApps;C:\Users\ALANKRIT SHRIVASTAV\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ALANKRIT SHRIVASTAV\AppData\Local\nvm;C:\nvm4w\nodejs;C:\Users\ALANKRIT SHRIVASTAV\AppData\Roaming\npm;C:\Users\ALANKRIT SHRIVASTAV\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.14;C:\Users\ALANKRIT SHRIVASTAV\AppData\Local\Python\bin;C:\Users\ALANKRIT SHRIVASTAV\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\clitool;C:\Users\ALANKRIT SHRIVASTAV\.dotnet\tools;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files\MySQL\MySQL Server 8.0\bin
+OneDrive=C:\Users\ALANKRIT SHRIVASTAV\OneDrive
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-36PE54Q
+DERBY_HOME=C:\derby\db-derby-10.17.1.0-bin
+CommonProgramFiles=C:\Program Files\Common Files
+ZES_ENABLE_SYSMAN=1
+VSCODE_PYTHON_AUTOACTIVATE_GUARD=1
+ANTIGRAVITY_LS_ADDRESS=localhost:53998
+ProgramData=C:\ProgramData
+LANG=en_US.UTF-8
+AI_AGENT=antigravity
+HOMEPATH=\Users\ALANKRIT SHRIVASTAV
+VSCODE_INJECTION=1
+COMPUTERNAME=DESKTOP-36PE54Q
+ANTIGRAVITY_PROJECT_ID=outside-of-project
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+JETSKI_APP_DATA_DIR=antigravity
+ALLUSERSPROFILE=C:\ProgramData
+CommonProgramW6432=C:\Program Files\Common Files
+ANTIGRAVITY_TRAJECTORY_ID=f8899d83-e39d-4bec-aad9-cb7b683ee528
+EFC_37548_2283032206=1
+SESSIONNAME=Console
+NVM_HOME=C:\Users\ALANKRIT SHRIVASTAV\AppData\Local\nvm
+TERM_PROGRAM=vscode
+PROCESSOR_REVISION=ba02
+HOMEDRIVE=C:
+WPSCLI_HOME=C:\Users\ALANKRIT SHRIVASTAV\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\clitool
+windir=C:\Windows
+GIT_TRACE2_PARENT_SID=8b0d26ce-fb71-41c5-b786-60a618878fab
+SystemDrive=C:
+NUMBER_OF_PROCESSORS=16
+OS=Windows_NT
+ANTIGRAVITY_CONVERSATION_ID=52028a6d-ecac-4dbc-8c77-f9e600f0b04a
+ProgramFiles=C:\Program Files
+ComSpec=C:\Windows\system32\cmd.exe
+CHROME_DEVTOOLS_MCP_JS=C:\Users\ALANKRIT SHRIVASTAV\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\bin\chrome-devtools-mcp.js
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+HOME=C:\Users\ALANKRIT SHRIVASTAV
+ANTIGRAVITY_CSRF_TOKEN=05a47d81-615d-43ff-b389-8380d33b0476
+PSModulePath=C:\Users\ALANKRIT SHRIVASTAV\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+NVM_SYMLINK=C:\nvm4w\nodejs
+EFC_37548_3789132940=1
+APPDATA=C:\Users\ALANKRIT SHRIVASTAV\AppData\Roaming
+USERDOMAIN=DESKTOP-36PE54Q
+PROCESSOR_LEVEL=6
+LOCALAPPDATA=C:\Users\ALANKRIT SHRIVASTAV\AppData\Local
+ANTIGRAVITY_AGENTAPI_EXE=C:\Users\ALANKRIT SHRIVASTAV\AppData\Local\Programs\antigravity\resources\bin\language_server.exe
+TERM_PROGRAM_VERSION=1.130.0
+EFC_37548_4126798990=1
+COLORTERM=truecolor
+PUBLIC=C:\Users\Public
+ANTIGRAVITY_LS_VERSION=hub-2.12.2
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\ALANKRIT SHRIVASTAV\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\ALANKRIT SHRIVASTAV\AppData\Local\Temp\0476485a9aa405f14ebcb1db'... OK
+Reading from temporary file 'C:\Users\ALANKRIT SHRIVASTAV\AppData\Local\Temp\0476485a9aa405f14ebcb1db'... OK
+Deleting temporary file 'C:\Users\ALANKRIT SHRIVASTAV\AppData\Local\Temp\0476485a9aa405f14ebcb1db'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\ALANKRIT SHRIVASTAV
+UserDataDirectoryPath: C:\Users\ALANKRIT SHRIVASTAV\.gcm
+GetCurrentDirectory(): C:\Users\ALANKRIT SHRIVASTAV\.gemini\antigravity\scratch\taskflow
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:49645/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.54.0.windows.1'
+Locating current repository...Git repository at 'C:/Users/ALANKRIT SHRIVASTAV/.gemini/antigravity/scratch/taskflow/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=schannel
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/ALANKRIT SHRIVASTAV/.gitconfig	user.name=Alankrit Shrivastav
+file:C:/Users/ALANKRIT SHRIVASTAV/.gitconfig	user.email=shrivashtavshrishti@gmail.com
+file:C:/Users/ALANKRIT SHRIVASTAV/.gitconfig	credential.helper=
+file:C:/Users/ALANKRIT SHRIVASTAV/.gitconfig	credential.helper=C:/Program\ Files/Git/mingw64/bin/git-credential-manager.exe
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	user.name=TaskFlow Developer
+file:.git/config	user.email=dev@taskflow.local
+file:.git/config	remote.origin.url=https://github.com/shrivashtav/TaskFlow.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\ALANKRIT SHRIVASTAV\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\ALANKRIT SHRIVASTAV\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
